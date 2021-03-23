@@ -8,23 +8,23 @@ Useful github commands
 #### Create a git repo
 Make a directory a Git repository
 
-*$ git init .*
+   *$ git init .*
 
 #### Check the status of your repository
 
-*$ git status*
+   *$ git status*
 
 #### Add the file.txt to the Git staging area
 
-*$ git add file.txt*
+   *$ git add file.txt*
 
 #### Commit the file to the Git repository
 
-*$ git commit -m "Adding file"*
+   *$ git commit -m "Adding file"*
 
 #### Look at the Git logs:
 
-*$ git log*
+   *$ git log*
 
 
 ##
@@ -42,11 +42,11 @@ https://github.com/<user_name>/<repo>.git
 #### set your remote repository, in your project terminal type
 Note: Your remote repository URL is the link you copied in previous step
 
-*$ git remote add origin <remote repository URL>*
+   *$ git remote add origin <remote repository URL>*
 
 #### verify your remote repository:
-*$ git remote -v*
+   *$ git remote -v*
 
 #### push your project to GitHub:
 
-*$ git push origin main*
+   *$ git push origin main*
