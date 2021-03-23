@@ -41,13 +41,12 @@ https://github.com/<user_name>/<repo>.git
 
 #### set your remote repository, in your project terminal type
 Note: Your remote repository URL is the link you copied in previous step
+
 $ git remote add origin <remote repository URL>
-
-
 
 #### verify your remote repository:
 $ git remote -v
 
 #### push your project to GitHub:
 
-$ git push origin main
+*$ git push origin main*
