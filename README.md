@@ -8,11 +8,11 @@ Useful github commands
 #### Create a git repo
 Make a directory a Git repository
 
-*$ git init . *
+*$ git init .*
 
 #### Check the status of your repository
 
-*$ git status *
+*$ git status*
 
 #### Add the file.txt to the Git staging area
 
@@ -24,7 +24,7 @@ Make a directory a Git repository
 
 #### Look at the Git logs:
 
-*$ git log *
+*$ git log*
 
 
 ##
