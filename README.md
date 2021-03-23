@@ -1,6 +1,9 @@
 # github-tutorial
 This is where I store my examples about github
  
+
+## Local repository
+
 ### Make a directory a Git repository
 
 $ git init .
@@ -20,6 +23,8 @@ $ git commit -m "Adding file"
 ### Look at the Git logs:
 
 $ git log
+
+
 
 ## Push to GitHub!
 
