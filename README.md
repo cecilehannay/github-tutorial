@@ -5,7 +5,8 @@ Useful github commands
 
 ## Local repository
 
-#### Make a directory a Git repository
+#### Create a git repo
+Make a directory a Git repository
 
 $ git init .
 
@@ -17,7 +18,7 @@ $ git status
 
 $ git add file.txt
 
-### Commit the file to the Git repository
+#### Commit the file to the Git repository
 
 $ git commit -m "Adding file"
 
