@@ -1,4 +1,4 @@
-This contains a mix of useful github commands
+This contains a mix of useful github commands that I am collecting from various source
 
 -----------
 
