@@ -1,3 +1,7 @@
+This contains a mix of useful github commands
+
+-----------
+
 # github-tutorial
 
 Useful github commands
